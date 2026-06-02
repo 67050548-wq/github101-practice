@@ -22,7 +22,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
 | Example Student | Team 00 | Demo | [example evidence](docs/evidence/example-student.md) | - |
-| คุณาสิน ขจรกุล | WEBOY | Documentation / Demo Lead | [evidence](docs/evidence/67050548-kunasin.md) |(https://github.com/SANCHAIE/github101-practice/issues/18)|
+| คุณาสิน ขจรกุล | WEBOY | Documentation / Demo Lead |กำลังทำ|กำลังทำ|
 
 
 ## วิธีทำ Part B: Practical Test
