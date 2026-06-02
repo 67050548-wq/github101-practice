@@ -16,7 +16,7 @@
 ## 4. Evidence Link
 
 - README link: https://github.com/67050548-wq/github101-practice/blob/main/README.md
-- Commit link:
+- Commit link: https://github.com/67050548-wq/github101-practice/commits/main/
 - Issue link: https://github.com/67050548-wq/github101-practice/blob/main/README.md
 
 ## 5. Reflection
