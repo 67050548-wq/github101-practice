@@ -2,12 +2,12 @@
 
 ## 1. My GitHub Username
 
-[ใส่ GitHub username]
+[67050548-wq]
 
 ## 2. My Team / Role
 
-- Team:
-- Role in Sprint:
+- Team: WEBOY
+- Role in Sprint: Documentation / Demo Lead
 
 ## 3. What I did in this repo
 
@@ -15,9 +15,9 @@
 
 ## 4. Evidence Link
 
-- README link:
+- README link: https://github.com/67050548-wq/github101-practice/blob/main/README.md
 - Commit link:
-- Issue link:
+- Issue link: https://github.com/67050548-wq/github101-practice/blob/main/README.md
 
 ## 5. Reflection
 
